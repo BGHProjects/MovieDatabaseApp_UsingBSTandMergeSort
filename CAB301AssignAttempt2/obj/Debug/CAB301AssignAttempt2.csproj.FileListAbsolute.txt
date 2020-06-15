@@ -1,0 +1,6 @@
+C:\Users\Smith's\Documents\Uni Notes\Brodies_Computer_Science_Notes\2020 Sem 1\CAB301 Algorithms and Complexity\Assignment 1\CAB301AssignAttempt2\CAB301AssignAttempt2\bin\Debug\CAB301AssignAttempt2.exe.config
+C:\Users\Smith's\Documents\Uni Notes\Brodies_Computer_Science_Notes\2020 Sem 1\CAB301 Algorithms and Complexity\Assignment 1\CAB301AssignAttempt2\CAB301AssignAttempt2\bin\Debug\CAB301AssignAttempt2.exe
+C:\Users\Smith's\Documents\Uni Notes\Brodies_Computer_Science_Notes\2020 Sem 1\CAB301 Algorithms and Complexity\Assignment 1\CAB301AssignAttempt2\CAB301AssignAttempt2\bin\Debug\CAB301AssignAttempt2.pdb
+C:\Users\Smith's\Documents\Uni Notes\Brodies_Computer_Science_Notes\2020 Sem 1\CAB301 Algorithms and Complexity\Assignment 1\CAB301AssignAttempt2\CAB301AssignAttempt2\obj\Debug\CAB301AssignAttempt2.csprojAssemblyReference.cache
+C:\Users\Smith's\Documents\Uni Notes\Brodies_Computer_Science_Notes\2020 Sem 1\CAB301 Algorithms and Complexity\Assignment 1\CAB301AssignAttempt2\CAB301AssignAttempt2\obj\Debug\CAB301AssignAttempt2.exe
+C:\Users\Smith's\Documents\Uni Notes\Brodies_Computer_Science_Notes\2020 Sem 1\CAB301 Algorithms and Complexity\Assignment 1\CAB301AssignAttempt2\CAB301AssignAttempt2\obj\Debug\CAB301AssignAttempt2.pdb
